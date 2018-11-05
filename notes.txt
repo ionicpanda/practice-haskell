@@ -1,0 +1,22 @@
+Common Types in Haskell
+Int
+        whole numbers -2147483647 - 2147583647
+Integer
+        really big integers
+Float
+        floating point with single precision
+Double
+        floating point with double precision
+Bool
+        two values: true or false
+Char
+        represents character and denoted by single quotes.
+        List of chars is a string.
+Tuples
+        Dependent on length as well as components. Theoretically infinite tuples.
+        Empty tuple also type with single value ()
+
+Type variables:
+        :t head returns head :: [a] -> a
+        a can be any type.
+        Functions with type variables are called polymorphic functions.
