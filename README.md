@@ -10,9 +10,9 @@ http://learnyouahaskell.com/chapters
 2. Starting out
 3. Types and Typeclasses
 4. Syntax in functions
+5. Recursion
 
 ### In progress
-5. Recursion
 
 ### Chapters to read
 6. Higher order functions
